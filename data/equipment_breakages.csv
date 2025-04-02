@@ -1,0 +1,201 @@
+date,employee_id,department,equipment,cause,severity,downtime_hours,repair_cost
+2025-03-16,1000024,Logistics,Forklift,Lack of Maintenance,Medium,7.3,9821.68
+2025-01-22,1000336,Transportation,Conveyor Belt,Lack of Maintenance,Medium,17.7,1519.54
+2025-01-15,1000481,Processing,Conveyor Belt,Improper Handling,High,27.8,7977.98
+2025-03-17,1000132,Production,Conveyor Belt,Mechanical Failure,Medium,16.8,9805.18
+2025-03-16,1000064,Production,Mixing Tank,Operator Error,High,56.8,8058.03
+2025-02-04,1000218,Facilities,Forklift,Lack of Maintenance,Medium,38.1,3869.5
+2025-01-17,1000445,Transportation,Cooling System,Lack of Maintenance,Low,5.9,1512.03
+2025-03-17,1000450,Transportation,Mixing Tank,Improper Handling,Low,3.4,825.35
+2025-02-22,1000330,Processing,Cooling System,Overloading,Medium,19.3,9177.25
+2025-01-22,1000308,Facilities,Mixing Tank,Improper Handling,Low,20.1,2971.95
+2025-03-09,1000267,Production,Forklift,Operator Error,Medium,27.4,4829.46
+2025-03-19,1000165,Facilities,Automated Arm,Lack of Maintenance,Medium,41.4,3761.22
+2025-01-19,1000215,Production,Packaging Machine,Overloading,Critical,74.0,8897.38
+2025-02-07,1000484,Facilities,Packaging Machine,Mechanical Failure,Medium,13.5,7426.1
+2025-02-14,1000254,Logistics,Cooling System,Mechanical Failure,Low,7.9,568.16
+2025-02-21,1000149,Inventory,Automated Arm,Improper Handling,Medium,24.8,8250.6
+2025-02-06,1000297,Processing,Forklift,Mechanical Failure,High,66.7,5014.13
+2025-02-03,1000116,Processing,Packaging Machine,Improper Handling,Low,12.8,3729.61
+2025-01-23,1000127,Processing,Automated Arm,Operator Error,Medium,36.4,8075.56
+2025-01-18,1000498,Inventory,Cooling System,Lack of Maintenance,High,50.8,14586.71
+2025-03-24,1000443,Processing,Conveyor Belt,Operator Error,Medium,40.1,5160.41
+2025-01-23,1000435,Facilities,Cooling System,Overloading,Low,11.6,1552.9
+2025-02-13,1000257,Inventory,Forklift,Overloading,Medium,16.1,9253.91
+2025-03-31,1000014,Facilities,Packaging Machine,Improper Handling,Critical,28.1,20704.0
+2025-02-21,1000314,Processing,Mixing Tank,Overloading,Medium,25.3,8518.6
+2025-02-07,1000390,Inventory,Mixing Tank,Overloading,Critical,76.8,6916.13
+2025-01-27,1000402,Production,Forklift,Operator Error,High,7.1,12188.24
+2025-02-24,1000273,Processing,Mixing Tank,Improper Handling,High,36.2,1949.7
+2025-03-04,1000109,Inventory,Conveyor Belt,Mechanical Failure,High,48.3,11214.29
+2025-03-26,1000235,Processing,Cooling System,Improper Handling,Medium,33.6,1289.83
+2025-03-07,1000082,Production,Conveyor Belt,Operator Error,Low,22.1,3581.51
+2025-01-05,1000336,Production,Forklift,Mechanical Failure,Low,3.9,2234.69
+2025-03-27,1000259,Logistics,Forklift,Lack of Maintenance,Critical,83.6,2810.24
+2025-02-08,1000481,Processing,Conveyor Belt,Improper Handling,Medium,20.5,6116.45
+2025-01-07,1000407,Inventory,Packaging Machine,Overloading,Medium,8.6,4789.67
+2025-03-21,1000207,Transportation,Automated Arm,Operator Error,Medium,26.6,2660.69
+2025-01-01,1000115,Production,Automated Arm,Lack of Maintenance,High,23.4,4180.79
+2025-02-07,1000311,Facilities,Mixing Tank,Overloading,Critical,60.2,24575.79
+2025-01-29,1000217,Processing,Mixing Tank,Overloading,Medium,28.8,9933.67
+2025-03-07,1000019,Logistics,Cooling System,Improper Handling,Critical,11.9,12316.2
+2025-03-05,1000229,Production,Automated Arm,Lack of Maintenance,Low,2.6,2886.75
+2025-02-21,1000086,Logistics,Conveyor Belt,Overloading,Low,8.9,3816.3
+2025-01-29,1000100,Logistics,Mixing Tank,Operator Error,Medium,22.9,2963.03
+2025-01-12,1000305,Production,Packaging Machine,Mechanical Failure,Medium,12.9,1788.84
+2025-02-21,1000446,Production,Forklift,Operator Error,Low,4.8,4649.88
+2025-02-17,1000089,Processing,Cooling System,Lack of Maintenance,High,30.9,13912.25
+2025-03-29,1000087,Logistics,Automated Arm,Operator Error,Low,15.4,1556.06
+2025-02-15,1000207,Production,Forklift,Mechanical Failure,Medium,6.8,7689.49
+2025-02-23,1000151,Production,Cooling System,Operator Error,Critical,32.4,7823.67
+2025-03-17,1000274,Logistics,Automated Arm,Lack of Maintenance,Low,10.3,2393.09
+2025-02-04,1000022,Transportation,Mixing Tank,Mechanical Failure,Medium,14.9,2573.94
+2025-01-17,1000314,Inventory,Packaging Machine,Lack of Maintenance,Low,6.8,861.09
+2025-03-19,1000090,Transportation,Automated Arm,Operator Error,Medium,11.4,9814.34
+2025-02-03,1000482,Inventory,Packaging Machine,Operator Error,Medium,27.3,9027.47
+2025-01-08,1000305,Facilities,Automated Arm,Improper Handling,High,52.4,11887.53
+2025-02-20,1000162,Transportation,Automated Arm,Improper Handling,Low,5.7,2443.87
+2025-02-10,1000248,Facilities,Cooling System,Mechanical Failure,High,49.6,3360.72
+2025-03-28,1000437,Inventory,Forklift,Lack of Maintenance,Low,10.8,719.12
+2025-01-29,1000076,Production,Packaging Machine,Operator Error,Medium,37.1,5599.04
+2025-03-09,1000162,Inventory,Packaging Machine,Mechanical Failure,Low,15.0,963.82
+2025-03-20,1000274,Transportation,Conveyor Belt,Mechanical Failure,Medium,37.6,5568.85
+2025-01-25,1000418,Inventory,Conveyor Belt,Operator Error,High,58.6,11471.01
+2025-03-18,1000185,Transportation,Conveyor Belt,Mechanical Failure,Low,19.9,1053.81
+2025-02-08,1000236,Facilities,Cooling System,Overloading,Low,17.4,1108.76
+2025-02-11,1000017,Transportation,Cooling System,Improper Handling,Low,6.9,4803.21
+2025-01-09,1000139,Inventory,Mixing Tank,Mechanical Failure,Low,17.4,1568.8
+2025-03-24,1000433,Facilities,Conveyor Belt,Mechanical Failure,High,21.8,7251.46
+2025-03-11,1000314,Processing,Automated Arm,Overloading,Low,16.6,3426.75
+2025-02-09,1000134,Processing,Packaging Machine,Overloading,Low,18.8,1141.64
+2025-03-25,1000070,Logistics,Automated Arm,Overloading,Medium,15.7,7778.24
+2025-03-09,1000439,Processing,Cooling System,Operator Error,Medium,17.1,8311.82
+2025-01-25,1000138,Inventory,Automated Arm,Lack of Maintenance,Medium,17.2,7650.99
+2025-01-14,1000396,Transportation,Cooling System,Lack of Maintenance,Medium,30.9,8032.17
+2025-01-29,1000111,Processing,Mixing Tank,Improper Handling,Medium,47.3,2786.29
+2025-01-08,1000399,Logistics,Mixing Tank,Lack of Maintenance,Medium,40.4,6662.48
+2025-02-26,1000145,Processing,Mixing Tank,Lack of Maintenance,Critical,114.0,16984.34
+2025-02-04,1000233,Facilities,Automated Arm,Overloading,High,60.3,4038.7
+2025-03-08,1000228,Logistics,Mixing Tank,Operator Error,Critical,117.4,23740.74
+2025-02-23,1000072,Processing,Packaging Machine,Mechanical Failure,Medium,16.8,6111.54
+2025-03-09,1000252,Logistics,Mixing Tank,Lack of Maintenance,High,20.0,5429.15
+2025-02-14,1000004,Transportation,Automated Arm,Lack of Maintenance,Medium,19.4,9260.44
+2025-01-03,1000273,Inventory,Automated Arm,Mechanical Failure,High,3.2,14094.42
+2025-03-22,1000042,Transportation,Conveyor Belt,Mechanical Failure,Medium,14.8,7779.66
+2025-02-02,1000293,Processing,Packaging Machine,Operator Error,Low,9.3,3905.9
+2025-03-22,1000114,Inventory,Mixing Tank,Lack of Maintenance,Critical,113.3,13475.38
+2025-01-31,1000185,Processing,Automated Arm,Lack of Maintenance,Critical,62.3,7307.63
+2025-03-31,1000385,Transportation,Forklift,Operator Error,Medium,18.5,2078.08
+2025-02-10,1000005,Logistics,Forklift,Improper Handling,High,31.0,3559.95
+2025-03-24,1000175,Production,Conveyor Belt,Improper Handling,Medium,7.8,4998.24
+2025-01-05,1000356,Processing,Conveyor Belt,Overloading,Medium,36.6,9278.5
+2025-03-11,1000083,Inventory,Cooling System,Mechanical Failure,Medium,9.6,1793.41
+2025-02-01,1000340,Transportation,Packaging Machine,Overloading,Critical,74.8,18006.44
+2025-01-14,1000482,Transportation,Conveyor Belt,Overloading,Medium,16.0,3402.18
+2025-03-20,1000412,Logistics,Mixing Tank,Lack of Maintenance,Medium,11.9,3725.31
+2025-03-22,1000377,Processing,Automated Arm,Mechanical Failure,Medium,8.2,5778.8
+2025-03-21,1000469,Production,Mixing Tank,Overloading,Medium,38.8,7815.4
+2025-03-19,1000053,Facilities,Mixing Tank,Improper Handling,Critical,11.6,5633.99
+2025-03-07,1000132,Facilities,Mixing Tank,Overloading,High,66.4,8512.36
+2025-02-20,1000484,Processing,Cooling System,Lack of Maintenance,Low,19.6,2230.64
+2025-01-03,1000476,Logistics,Conveyor Belt,Lack of Maintenance,Low,5.1,711.82
+2025-03-15,1000127,Logistics,Automated Arm,Overloading,Medium,37.8,5094.78
+2025-02-08,1000284,Inventory,Cooling System,Overloading,High,52.4,11426.44
+2025-02-25,1000496,Facilities,Packaging Machine,Mechanical Failure,Critical,114.1,23551.26
+2025-01-23,1000197,Inventory,Forklift,Lack of Maintenance,Medium,3.5,3272.61
+2025-01-04,1000340,Production,Mixing Tank,Mechanical Failure,Medium,6.4,4389.36
+2025-03-17,1000069,Transportation,Cooling System,Lack of Maintenance,Low,13.3,3034.61
+2025-02-19,1000084,Transportation,Forklift,Lack of Maintenance,Low,8.8,1734.64
+2025-03-18,1000143,Production,Mixing Tank,Overloading,High,36.5,13671.57
+2025-01-08,1000265,Production,Cooling System,Mechanical Failure,Low,2.9,3214.54
+2025-01-22,1000058,Facilities,Automated Arm,Operator Error,Low,16.8,1126.31
+2025-01-01,1000334,Facilities,Cooling System,Improper Handling,Medium,33.0,9355.51
+2025-01-15,1000264,Production,Cooling System,Lack of Maintenance,Low,18.9,3435.68
+2025-01-29,1000362,Transportation,Conveyor Belt,Operator Error,Medium,11.1,2070.45
+2025-02-06,1000282,Logistics,Cooling System,Overloading,Medium,2.3,7740.07
+2025-01-17,1000323,Facilities,Automated Arm,Mechanical Failure,Low,19.1,3121.52
+2025-01-12,1000096,Transportation,Packaging Machine,Lack of Maintenance,High,40.0,1637.3
+2025-02-17,1000264,Processing,Conveyor Belt,Operator Error,Low,6.9,3998.77
+2025-01-10,1000437,Facilities,Mixing Tank,Operator Error,Low,14.0,1455.85
+2025-01-09,1000195,Transportation,Conveyor Belt,Lack of Maintenance,Medium,25.5,8918.58
+2025-01-01,1000052,Processing,Automated Arm,Mechanical Failure,Critical,19.7,6019.02
+2025-02-07,1000344,Transportation,Mixing Tank,Mechanical Failure,Medium,43.8,7519.14
+2025-02-23,1000028,Processing,Conveyor Belt,Mechanical Failure,Low,20.1,2532.31
+2025-01-14,1000411,Inventory,Mixing Tank,Mechanical Failure,Critical,58.3,9792.51
+2025-02-19,1000042,Inventory,Automated Arm,Mechanical Failure,Medium,14.2,4937.55
+2025-01-20,1000354,Facilities,Cooling System,Lack of Maintenance,Medium,7.4,1126.08
+2025-01-14,1000045,Production,Conveyor Belt,Mechanical Failure,High,6.9,11715.5
+2025-01-09,1000158,Inventory,Mixing Tank,Lack of Maintenance,High,41.1,10938.66
+2025-01-30,1000026,Transportation,Automated Arm,Operator Error,Medium,27.1,9004.28
+2025-01-01,1000299,Facilities,Forklift,Lack of Maintenance,Medium,10.2,7621.4
+2025-02-22,1000273,Transportation,Mixing Tank,Lack of Maintenance,High,62.5,6847.84
+2025-01-12,1000444,Processing,Cooling System,Lack of Maintenance,Low,8.9,3121.62
+2025-01-04,1000133,Inventory,Automated Arm,Overloading,Critical,76.4,15290.87
+2025-02-15,1000497,Transportation,Cooling System,Mechanical Failure,Medium,33.8,1642.41
+2025-02-22,1000445,Production,Conveyor Belt,Lack of Maintenance,Low,6.0,2387.53
+2025-01-12,1000413,Processing,Forklift,Overloading,Medium,47.3,5731.83
+2025-03-07,1000437,Logistics,Forklift,Mechanical Failure,Medium,27.5,2865.69
+2025-03-02,1000274,Processing,Mixing Tank,Mechanical Failure,Low,10.3,3463.45
+2025-02-27,1000143,Logistics,Automated Arm,Operator Error,Medium,46.5,8885.34
+2025-02-14,1000046,Production,Automated Arm,Lack of Maintenance,Low,5.0,2469.3
+2025-03-18,1000290,Inventory,Mixing Tank,Overloading,Medium,20.9,2822.45
+2025-03-18,1000456,Inventory,Packaging Machine,Overloading,Medium,43.6,9164.09
+2025-01-13,1000006,Logistics,Automated Arm,Operator Error,Low,22.4,4922.66
+2025-03-02,1000398,Production,Packaging Machine,Mechanical Failure,Medium,44.4,9962.84
+2025-02-12,1000315,Transportation,Forklift,Lack of Maintenance,Medium,43.1,1726.61
+2025-02-05,1000331,Inventory,Packaging Machine,Overloading,Medium,25.8,6044.97
+2025-02-05,1000424,Inventory,Cooling System,Mechanical Failure,Critical,41.0,18103.29
+2025-02-07,1000115,Facilities,Forklift,Improper Handling,Low,7.5,2557.73
+2025-02-18,1000101,Inventory,Packaging Machine,Overloading,High,43.6,8505.81
+2025-01-28,1000456,Facilities,Cooling System,Operator Error,Medium,19.8,7843.23
+2025-02-05,1000076,Facilities,Mixing Tank,Overloading,Critical,40.4,7792.5
+2025-01-14,1000470,Transportation,Forklift,Mechanical Failure,Low,19.0,3237.7
+2025-03-03,1000485,Logistics,Packaging Machine,Lack of Maintenance,Medium,12.5,4850.18
+2025-03-24,1000311,Processing,Conveyor Belt,Lack of Maintenance,Medium,31.0,1767.96
+2025-01-12,1000455,Transportation,Mixing Tank,Overloading,High,14.8,11481.46
+2025-02-11,1000400,Production,Packaging Machine,Mechanical Failure,High,22.9,13660.01
+2025-01-15,1000352,Production,Packaging Machine,Operator Error,Medium,33.2,2754.03
+2025-03-26,1000228,Production,Conveyor Belt,Lack of Maintenance,Medium,30.8,9576.11
+2025-01-21,1000325,Processing,Forklift,Operator Error,Low,1.0,2782.82
+2025-01-13,1000234,Logistics,Forklift,Mechanical Failure,Low,12.0,894.59
+2025-02-24,1000193,Logistics,Conveyor Belt,Operator Error,Low,2.9,2967.17
+2025-03-20,1000421,Facilities,Cooling System,Improper Handling,Medium,12.9,7478.72
+2025-01-23,1000421,Inventory,Cooling System,Lack of Maintenance,Low,20.0,668.47
+2025-01-18,1000474,Processing,Conveyor Belt,Operator Error,Low,16.1,2071.01
+2025-01-21,1000311,Processing,Packaging Machine,Overloading,Low,11.2,2912.13
+2025-04-01,1000057,Transportation,Automated Arm,Lack of Maintenance,Low,21.7,1071.45
+2025-01-03,1000421,Inventory,Packaging Machine,Operator Error,Medium,23.8,3579.25
+2025-02-26,1000294,Processing,Automated Arm,Operator Error,Low,22.2,1241.22
+2025-01-06,1000181,Inventory,Conveyor Belt,Mechanical Failure,Medium,16.8,7709.07
+2025-03-08,1000252,Logistics,Packaging Machine,Lack of Maintenance,Medium,22.8,3809.28
+2025-03-19,1000007,Inventory,Conveyor Belt,Improper Handling,Medium,23.8,8214.97
+2025-01-03,1000424,Processing,Cooling System,Operator Error,High,48.0,11126.53
+2025-02-28,1000148,Production,Packaging Machine,Improper Handling,Medium,28.1,5155.16
+2025-03-19,1000381,Production,Conveyor Belt,Improper Handling,High,34.3,13320.05
+2025-03-13,1000232,Production,Conveyor Belt,Improper Handling,High,61.3,5123.68
+2025-03-07,1000478,Inventory,Packaging Machine,Improper Handling,High,62.1,7654.71
+2025-01-08,1000484,Production,Mixing Tank,Operator Error,Medium,4.0,5205.64
+2025-03-23,1000426,Production,Mixing Tank,Improper Handling,Low,3.2,1247.84
+2025-01-28,1000391,Production,Packaging Machine,Operator Error,Medium,38.7,3345.19
+2025-02-22,1000138,Inventory,Packaging Machine,Overloading,Medium,37.2,2310.12
+2025-01-17,1000298,Processing,Packaging Machine,Improper Handling,Medium,39.8,3010.29
+2025-03-13,1000047,Production,Mixing Tank,Improper Handling,Medium,20.2,5566.38
+2025-03-06,1000351,Inventory,Automated Arm,Operator Error,Low,20.3,1381.51
+2025-02-06,1000466,Logistics,Automated Arm,Lack of Maintenance,Medium,29.0,3114.68
+2025-01-23,1000031,Production,Cooling System,Overloading,Medium,31.6,6938.51
+2025-01-16,1000434,Processing,Forklift,Improper Handling,Low,16.4,4045.23
+2025-03-23,1000388,Inventory,Conveyor Belt,Operator Error,Medium,21.0,4637.94
+2025-03-09,1000271,Inventory,Packaging Machine,Overloading,Low,7.7,2909.22
+2025-01-18,1000292,Facilities,Packaging Machine,Mechanical Failure,Medium,23.7,6639.78
+2025-02-13,1000455,Logistics,Forklift,Improper Handling,High,28.8,5822.88
+2025-01-04,1000322,Logistics,Conveyor Belt,Mechanical Failure,Low,5.2,1774.48
+2025-01-17,1000042,Transportation,Mixing Tank,Operator Error,Medium,32.4,1537.5
+2025-02-14,1000437,Production,Cooling System,Overloading,Medium,47.7,1365.89
+2025-02-17,1000262,Logistics,Packaging Machine,Improper Handling,High,51.8,12689.01
+2025-01-24,1000268,Transportation,Forklift,Overloading,High,66.4,8242.55
+2025-03-19,1000060,Logistics,Conveyor Belt,Improper Handling,Critical,40.5,14766.93
+2025-02-13,1000250,Logistics,Automated Arm,Lack of Maintenance,Medium,6.9,5366.94
+2025-02-18,1000107,Transportation,Cooling System,Overloading,Low,14.6,4135.67
+2025-02-27,1000363,Logistics,Cooling System,Overloading,Low,14.8,698.35
+2025-02-28,1000438,Facilities,Conveyor Belt,Mechanical Failure,Critical,41.9,6151.67
+2025-03-21,1000123,Processing,Cooling System,Overloading,Critical,17.5,11058.88
