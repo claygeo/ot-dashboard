@@ -4,18 +4,18 @@ A Shiny R web application for analyzing overtime hours, Units Per Labor Hour (UP
 
 ## Features
 
--Interactive dashboard with tabs for Overtime Overview, Overtime Trend, UPLH Review, and Equipment Analysis
--Plotly visualizations including bar charts, line plots, heatmaps, and Sankey diagrams
--Filterable data by department, date range, equipment, and severity
--Predictive maintenance forecasts for equipment breakages over the next 30 days
--Downloadable HTML reports with overtime and UPLH summaries
--Actionable insights and recommendations for reducing overtime and improving equipment reliability
+- Interactive dashboard with tabs for Overtime Overview, Overtime Trend, UPLH Review, and Equipment Analysis
+- Plotly visualizations including bar charts, line plots, heatmaps, and Sankey diagrams
+- Filterable data by department, date range, equipment, and severity
+- Predictive maintenance forecasts for equipment breakages over the next 30 days
+- Downloadable HTML reports with overtime and UPLH summaries
+- Actionable insights and recommendations for reducing overtime and improving equipment reliability
 
 ## Prerequisites
 
--R (version 4.0 or higher)
-RStudio (recommended for running Shiny apps)
--R packages: shiny, dplyr, ggplot2, plotly, DT, lubridate, shinythemes
+- R (version 4.0 or higher)
+- RStudio (recommended for running Shiny apps)
+- R packages: shiny, dplyr, ggplot2, plotly, DT, lubridate, shinythemes
 
 ## Setup
 
