@@ -33,6 +33,5 @@ runApp("app.R")
 ## Notes
 
 Ensure CSV files in data/ match the expected format (see app.R for column requirements).
-The dashboard is designed as a demo for Q1 2025, potentially for a specific organization (e.g., Curaleaf), used with permission.
-Data files may contain sensitive information; do not share publicly without authorization.
+The dashboard is designed as a demo for Q1 2025, used with permission.
 
