@@ -27,7 +27,7 @@ A Shiny R web application for analyzing overtime hours, Units Per Labor Hour (UP
 ## Setup
 
 1. Clone the repository: git clone https://github.com/claygeo/ot-dashboard.gt
-2. Navigate to the project directory: cd shiny-dashboard
+2. Navigate to the project directory: cd ot-dashboard
 3. Install R packages:install.packages(c("shiny", "dplyr", "ggplot2", "plotly", "DT", "lubridate", "shinythemes"))
 
 
